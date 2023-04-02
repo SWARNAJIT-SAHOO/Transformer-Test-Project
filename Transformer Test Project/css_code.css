@@ -1,0 +1,50 @@
+#table1{
+    text-align: center;
+    margin-top: 1cm;
+    border: .1cm solid black;
+    width: 70%;
+}
+.td1{
+    padding: .5cm;
+}
+body{
+    background-color: rgba(240, 194, 102, 0.326);
+    color: rgb(14, 2, 38);
+}
+.input1{
+    padding: .3cm;
+    width: 70%;
+}
+button{
+    padding: .5cm;
+    color: black;
+    border: 1px solid black;
+    background-color: rgb(241, 222, 171);
+}
+button:hover{
+    background-color: rgb(46, 30, 30);
+    color: white;
+}
+
+
+#tab22{
+    border-left: .1cm solid rgb(11, 9, 9);
+    border-right: .1cm solid rgb(11, 9, 9);
+    border-top: .1cm solid rgb(11, 9, 9);
+    border-bottom: .1cm solid rgb(11, 9, 9);
+}
+#div1{
+    height: 0;
+width: 0;
+position: absolute;
+background:transparent;
+overflow-x: hidden;
+/* transition: 0.5s; */
+/* padding-top: 60px;  */
+text-align: center;
+}
+.tb{
+    padding-top: .1cm;
+    padding-bottom: .1cm;
+    border: none;
+}
